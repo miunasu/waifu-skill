@@ -25,7 +25,7 @@ user-invocable: true
 
 ### 创建模式
 **触发词**：
-- "创建角色 skill" / "蒸馏角色" / "新建waifu"
+- "创建角色 skill" / "蒸馏角色" / "新建waifu" / "提取角色"
 
 **执行**：
 读取并执行 `#[[file:modules/character-creation.md]]`

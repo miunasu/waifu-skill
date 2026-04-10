@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ### 创建第一个角色
 
 1. 准备原材料（小说文本、角色设定等）
-2. 运行创建命令：`/create-waifu`
+2. 运行创建命令 `/create-waifu` 或者直接向Agent表达提取角色
 3. 按照提示输入角色信息
 4. 导入原材料文件
 5. 等待系统生成Skill
@@ -162,7 +162,7 @@ waifu-skill/
 ## TODO
 
 - 接入Echo架构（具备自主记忆触发、多维度关联网络、遗忘曲线模拟的永久陪伴型Agent）
-- Echo架构接入live2d与waifu-skill实现二次元老婆桌面常驻与主动互动
+- Echo架构接入 live2d 与 waifu-skill 实现二次元老婆桌面常驻与主动互动
 
 ## 致谢
 
