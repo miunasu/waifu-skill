@@ -1,0 +1,31 @@
+# Waifu-Skill Python依赖
+
+# 基础依赖
+python>=3.9
+
+# 文本处理
+# 用于epub格式解析
+ebooklib>=0.18
+beautifulsoup4>=4.12.0
+
+# 用于pdf格式解析
+PyPDF2>=3.0.0
+
+# 文件和路径处理
+pathlib>=1.0.1
+
+# JSON处理（Python内置，无需安装）
+# json
+
+# 日期时间处理（Python内置，无需安装）
+# datetime
+
+# 正则表达式（Python内置，无需安装）
+# re
+
+# 文件操作（Python内置，无需安装）
+# shutil
+# os
+
+# 命令行参数解析（Python内置，无需安装）
+# argparse

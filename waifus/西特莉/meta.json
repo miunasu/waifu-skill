@@ -1,0 +1,21 @@
+{
+  "name": "西特莉",
+  "slug": "xiteli",
+  "work": "叹气的亡灵想隐退",
+  "created_at": "2026-04-11T01:17:00Z",
+  "updated_at": "2026-04-11T01:17:00Z",
+  "version": "v1",
+  "profile": {
+    "identity": "炼金术师"
+  },
+  "world": {
+    "type": "魔法奇幻"
+  },
+  "sources": [
+    "第三章",
+    "第四章"
+  ],
+  "stats": {
+    "corrections_count": 0
+  }
+}
